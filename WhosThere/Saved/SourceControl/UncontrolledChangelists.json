@@ -72,6 +72,12 @@
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalObjects__/Lvl_WhosThere/2/9P/E8ERQ62SJ54O6IYGAFE7RJ.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Lvl_WhosThere.umap",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Input/Actions/IA_Sprint.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Input/IMC_Default.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/_Game/UI/WBP_Stamina.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/_Game/UI/WBP_HUD.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/_Game/UI/WBP_PauseMenu.uasset",
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Input/Actions/IA_Pause.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset",
@@ -88,11 +94,7 @@
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IP/FTEAYZDQR9M2KDS0TEPHA0.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U0/N7D7PHGDI2A4EOLD58TA92.uasset",
 				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/I3/0VVXG3S0B4RN6QSHFSGKGX.uasset",
-				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset",
-				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Input/Actions/IA_Sprint.uasset",
-				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/Input/IMC_Default.uasset",
-				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/_Game/UI/WBP_Stamina.uasset",
-				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/_Game/UI/WBP_HUD.uasset"
+				"E:/Unreal engine Projects/WhosThere/WhosThere/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset"
 			]
 		}
 	]
